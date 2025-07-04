@@ -1,4 +1,4 @@
-# Vulnerability Scanning & Disclosure Report – Metasploitable 2
+# Vulnerability Scanning & Disclosure Report 
 
 ## Overview  
 This project documents the findings of a vulnerability scan conducted on **Metasploitable 2**, a deliberately vulnerable virtual machine used for ethical hacking and penetration testing practice. The scan was performed in a controlled environment to identify security weaknesses, assess their severity, and suggest appropriate remediation steps, all while adhering to a hypothetical **Vulnerability Disclosure Policy (VDP)**.
